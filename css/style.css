@@ -1,0 +1,22 @@
+section {
+    display: -webkit-flex;
+    display: flex;
+    background-color: aqua;
+    height: 100vh;
+  }
+  nav {
+    -webkit-flex: 7;
+    -ms-flex: 7;
+    flex: 7;
+    background: aqua;
+    padding: 10px;
+    height: 100vh;
+  }
+  article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: white;
+    padding: 10px;
+    height: 100vh;
+  }
